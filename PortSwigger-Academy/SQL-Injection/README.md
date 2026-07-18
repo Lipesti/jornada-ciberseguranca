@@ -96,7 +96,7 @@ Este repositório não contém código executável — é um material de estudo 
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/<seu-usuario>/<seu-repositorio>.git
+      git clone [https://github.com/Lipesti/jornada-ciberseguranca.git](https://github.com/Lipesti/jornada-ciberseguranca.git)
    ```
 2. Navegue pelas seções deste README ou pela pasta `labs/`;
 3. Recomendado: pratique os laboratórios diretamente na [PortSwigger Web Security Academy](https://portswigger.net/web-security), que é gratuita.
