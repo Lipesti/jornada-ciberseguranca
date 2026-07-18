@@ -32,3 +32,8 @@ Para manter o aprendizado estruturado, o projeto é dividido nas seguintes seç�
 
 ---
 "A melhor forma de defender um sistema é entender profundamente como ele pode ser atacado."
+<p align="center">
+  <img width="1376" height="768" alt="white-hat-header png" src="https://github.com/user-attachments/assets/89ef100c-907b-423a-8ff5-e90efc055c6a" alt="Capa Jornada Cibersegurança - Ethical Hacker" width="100%"/>
+
+</p>
+
